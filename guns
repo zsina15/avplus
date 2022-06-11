@@ -12,7 +12,7 @@
     "tag1": "آسیب زیاد",
     "tag2": "نفوذ به زره",
     "attachables": "SI , MU , FO ",
-    "mode": "MARKSMANRIFLE",
+    "mode": "LAUNCHER",
     "image": "https://s6.uupload.ir/files/woodpecker_2_im1t.png"
   },
   {
@@ -28,7 +28,7 @@
     "tag1": "دوربرد",
     "tag2": "نادر",
     "attachables": "SI , MU , FO , MA ",
-    "mode": "MARKSMANRIFLE",
+    "mode": "SMG",
     "image": "https://s6.uupload.ir/files/a972c767cf13svd_xfje.png"
   }
 ]
