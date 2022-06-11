@@ -1,36 +1,5 @@
 [
-  {
-    "name": "M24",
-    " damage": "90",
-    "range": "79",
-    "magazine": "15",
-    "rateof": "27",
-    "reaload": "48",
-    "accuracy": "90",
-    "armor": "14",
-    "text": "یک تفنگ تک تیرانداز سبک است که دارای تحرک بالا و سرعت شلیک سریع است.",
-    "tag1": "دور برد",
-    "tag2": "تعویض سریع",
-    "attachables": "Mu , Fo",
-    "mode": "SR",
-    "image": "https://s6.uupload.ir/files/1654932534126_xsej.png"
-  },
-  {
-    "name": "SKS",
-    " damage": "82",
-    "range": "82",
-    "magazine": "10",
-    "rateof": "35",
-    "reaload": "41",
-    "accuracy": "51",
-    "armor": "46",
-    "text": "تفنگ تک تیرانداز نیمه اتوماتیک که از قبل با دامنه 4 برابر متصل شده است .",
-    "tag1": "خسارت بلند",
-    "tag2": "برد بلند",
-    "attachables": "SI , MU , FO , MA",
-    "mode": "MARKSMANRIFLE",
-    "image": "https://s6.uupload.ir/files/7f5f84b29c48sks_0xjv.png"
-  },
+  
   {
     "name": "WOODPECKER",
     " damage": "85",
