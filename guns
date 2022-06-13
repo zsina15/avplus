@@ -1,5 +1,52 @@
 [
-  
+  {
+    "name": "M24",
+    " damage": "90",
+    "range": "79",
+    "magazine": "15",
+    "rateof": "27",
+    "reaload": "48",
+    "accuracy": "90",
+    "armor": "14",
+    "text": "یک تفنگ تک تیرانداز سبک است که دارای تحرک بالا و سرعت شلیک سریع است.",
+    "tag1": "دور برد",
+    "tag2": "تعویض سریع",
+    "attachables": "Mu , Fo",
+    "mode": "SR",
+    "image": "https://s6.uupload.ir/files/1654932534126_xsej.png"
+  },
+  {
+    "name": "AC80",
+    " damage": "71",
+    "range": "78",
+    "magazine": "10",
+    "rateof": "35",
+    "reaload": "55",
+    "accuracy": "51",
+    "text": "\nدو شلیک مداوم به هدف باعث آسیب پذیری بیشتر میشود . ایده آل برای محدوده های متوسط تا طولانی.",
+    "tag1": "خسارت اضافی",
+    "tag2": "برد بلند",
+    "attachables": "SI , MU , FO",
+    "mode": "MARKSMANRIFLE",
+    "image": "https://s6.uupload.ir/files/1654844765647_hfrz.png",
+    "armor": "70"
+  },
+  {
+    "name": "SKS",
+    " damage": "82",
+    "range": "82",
+    "magazine": "10",
+    "rateof": "35",
+    "reaload": "41",
+    "accuracy": "51",
+    "armor": "46",
+    "text": "تفنگ تک تیرانداز نیمه اتوماتیک که از قبل با دامنه 4 برابر متصل شده است .",
+    "tag1": "خسارت بلند",
+    "tag2": "برد بلند",
+    "attachables": "SI , MU , FO , MA",
+    "mode": "MARKSMANRIFLE",
+    "image": "https://s6.uupload.ir/files/7f5f84b29c48sks_0xjv.png"
+  },
   {
     "name": "WOODPECKER",
     " damage": "85",
@@ -350,7 +397,7 @@
     "tag2": "خسارت زیاد",
     "attachables": "",
     "mode": "PISTOL",
-    "image": "https://s6.uupload.ir/files/1654883551863_qe1y.png"
+    "image": "https://s6.uupload.ir/files/1654883128709_2fxc.png"
   },
   {
     "name": "DESERT EAGLE",
@@ -398,7 +445,7 @@
     "tag2": "مناسب برای ست اول",
     "attachables": "SI , MU , MA ",
     "mode": "PISTOL",
-    "image": "https://s6.uupload.ir/files/1654883633652_fg1c.png"
+    "image": "https://s6.uupload.ir/files/1654883128709_2fxc.png"
   },
   {
     "name": "M1873",
@@ -414,7 +461,7 @@
     "tag2": "محدوده نزدیک",
     "attachables": "",
     "mode": "PISTOL",
-    "image": "https://s6.uupload.ir/files/1654883693246_l6gx.png"
+    "image": "https://s6.uupload.ir/files/74101edaea37m1873_zvgp.png"
   },
   {
     "name": "M500",
@@ -445,8 +492,8 @@
     "tag1": "شفا",
     "tag2": "محدوده نزدیک",
     "attachables": "",
-    "mode": "PISTOL",
-    "image": ""
+    "mode": "LMG",
+    "image": "https://s6.uupload.ir/files/1654883693246_l6gx.png"
   },
   {
     "name": "KORD",
@@ -462,7 +509,7 @@
     "tag2": "سرعت شلیک بالا",
     "attachables": "",
     "mode": "LMG",
-    "image": ""
+    "image": "https://s6.uupload.ir/files/1655025831540_wihu.png"
   },
   {
     "name": "M249",
@@ -478,7 +525,7 @@
     "tag2": "سرعت شلیک بالا",
     "attachables": "SC",
     "mode": "LMG",
-    "image": ""
+    "image": "https://s6.uupload.ir/files/1655025848182_0y5y.png"
   },
   {
     "name": "M60",
@@ -494,7 +541,7 @@
     "tag2": "سرعت شلیک بالا",
     "attachables": "MA",
     "mode": "LMG",
-    "image": ""
+    "image": "https://s6.uupload.ir/files/1655025900464_tf9g.png"
   },
   {
     "name": "GATLING",
@@ -510,6 +557,150 @@
     "tag2": "نرخ آتش دیوانه کننده",
     "attachables": "",
     "mode": "LMG",
-    "image": ""
+    "image": "https://s6.uupload.ir/files/1655025943718_v1pz.png"
+  },
+  {
+    "name": "MAC 10",
+    " damage": "49",
+    "range": "25",
+    "magazine": "30",
+    "rateof": "25",
+    "reaload": "62",
+    "accuracy": "49",
+    "armor": "42",
+    "text": "همراه با صدا خفه کن و در تمام جعبه ها متعادل است",
+    "tag1": "محدوده نزدیک",
+    "tag2": "نرخ آتش بالا",
+    "attachables": "SI , FO , MA",
+    "mode": "SMG",
+    "image": "https://s6.uupload.ir/files/1654877029369_qe9a.png"
+  },
+  {
+    "name": "VECTOR",
+    " damage": "47",
+    "range": "33",
+    "magazine": "20",
+    "rateof": "81",
+    "reaload": "27",
+    "accuracy": "61",
+    "armor": "0",
+    "text": "وکتور اولین سلاح آکیمبو در فری فایر است ، برد کوتاه موثری دارد ، اما در فاصله نزدیک قدرت ویرانگری دارد ، بازیکنان میتوانند یک ویکتور را در هر دست نگه دارند .",
+    "tag1": "محدوده نزدیک",
+    "tag2": "آکیمبو",
+    "attachables": "MU , MA",
+    "mode": "SMG",
+    "image": "https://s6.uupload.ir/files/1654877048846_adto.png"
+  },
+  {
+    "name": "THOMPSON",
+    " damage": "50",
+    "range": "24",
+    "magazine": "42",
+    "rateof": "78",
+    "reaload": "48",
+    "accuracy": "42",
+    "armor": "0",
+    "text": "اسلحه های ساچمه ای با کالیبر بزرگ به همان اندازه برای دشمن در فاصله نزدیک تهدید کننده است ",
+    "tag1": "محدوده نزدیک",
+    "tag2": "نرخ آتش بالا",
+    "attachables": "MU , FO",
+    "mode": "SMG",
+    "image": "https://s6.uupload.ir/files/1654877105053_rm26.png"
+  },
+  {
+    "name": "VSS",
+    " damage": "54",
+    "range": "72",
+    "magazine": "15",
+    "rateof": "46",
+    "reaload": "55",
+    "accuracy": "73",
+    "armor": "0",
+    "text": "یک تفنگ تک تیرانداز خاموش که به خوبی در فواصل متوسط کار میکند .",
+    "tag1": "دور برد",
+    "tag2": "بیصدا",
+    "attachables": "MA , SC",
+    "mode": "SMG",
+    "image": "https://s6.uupload.ir/files/1654877119888_fran.png"
+  },
+  {
+    "name": "MP5",
+    " damage": "48",
+    "range": "27",
+    "magazine": "30",
+    "rateof": "76",
+    "reaload": "62",
+    "accuracy": "54",
+    "armor": "0",
+    "text": "از نظر پایداری از سایر مسلسل ها پیشی میگیرد ، اما در فواصل دور کارایی خود را از دست میدهد",
+    "tag1": "محدوده کوتاه ",
+    "tag2": "نرخ آتش بالا",
+    "attachables": "SI , MU , FO , MA , SC",
+    "mode": "SMG",
+    "image": "https://s6.uupload.ir/files/1654877162987_6lme.png"
+  },
+  {
+    "name": "UMP",
+    " damage": "50",
+    "range": "24",
+    "magazine": "30",
+    "rateof": "74",
+    "reaload": "59",
+    "accuracy": "42",
+    "armor": "54",
+    "text": "اسلحه دستی پایدار مناسب برای کاربران جدید .",
+    "tag1": "محدوده کوتاه ",
+    "tag2": "دقیق",
+    "attachables": "SI , MU , FO , MA , SC",
+    "mode": "SMG",
+    "image": "https://s6.uupload.ir/files/1654877199833_uoc7.png"
+  },
+  {
+    "name": "MP40",
+    " damage": "48",
+    "range": "22",
+    "magazine": "20",
+    "rateof": "85",
+    "reaload": "48",
+    "accuracy": "27",
+    "armor": "0",
+    "text": "شگفت آور است که این مسلسل با وجود سرعت تیراندازی دیوانه وارش چقدر پایدار است . بسیار قدرتمند در برد کوتاه .",
+    "tag1": "محدوده کوتاه ",
+    "tag2": "نرخ آتش دیوانه وار",
+    "attachables": "FO , MA",
+    "mode": "SMG",
+    "image": "https://s6.uupload.ir/files/1654877222547_u1io.png"
+  },
+  {
+    "name": "P90",
+    " damage": "49",
+    "range": "27",
+    "magazine": "50",
+    "rateof": "76",
+    "reaload": "48",
+    "accuracy": "44",
+    "armor": "0",
+    "text": "با اندازه گیری بزرگ ، دارای سرعت آتش بالا و قدرت میان برد قوی .",
+    "tag1": "میان برد",
+    "tag2": "نرخ آتش دیوانه کننده",
+    "attachables": "MA , SC",
+    "mode": "SMG",
+    "image": "https://s6.uupload.ir/files/1654877405034_qimy.png"
+  },
+  {
+    "name": "CG 15",
+    " damage": "50",
+    "range": "71",
+    "magazine": "20",
+    "rateof": "69",
+    "reaload": "62",
+    "accuracy": "60",
+    "armor": "0",
+    "text": "ساخته شده با فناوری جدید ، قادر به شلیک با آسیب زیاد و قابل شارژ کردن",
+    "tag1": "دور برد",
+    "tag2": "قابل شارژ",
+    "attachables": "FO , MA",
+    "mode": "SMG",
+    "image": "https://s6.uupload.ir/files/1654877431476_zlik.png"
   }
 ]
