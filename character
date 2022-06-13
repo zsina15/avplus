@@ -8,7 +8,7 @@
     "age": "",
     "gender": "",
     "ability": "",
-    "score": ""
+    "score": "3"
   },
   {
     "name": "dimitry",
@@ -19,7 +19,7 @@
     "age": "",
     "gender": "",
     "ability": "",
-    "score": ""
+    "score": "5"
   },
   {
     "name": "kella",
@@ -30,7 +30,7 @@
     "age": "",
     "gender": "",
     "ability": "",
-    "score": ""
+    "score": "4.6"
   },
   {
     "name": "kella",
@@ -41,7 +41,7 @@
     "age": "",
     "gender": "",
     "ability": "",
-    "score": ""
+    "score": "1"
   },
   {
     "name": "kella",
@@ -52,7 +52,7 @@
     "age": "",
     "gender": "",
     "ability": "",
-    "score": ""
+    "score": "3"
   },
   {
     "name": "kella",
@@ -63,6 +63,6 @@
     "age": "",
     "gender": "",
     "ability": "",
-    "score": ""
+    "score": "5"
   }
 ]
