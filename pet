@@ -1,26 +1,114 @@
 [
   {
-    "name e": "falco",
-    "name p": "مشنگ ",
-    "image": "https://s6.uupload.ir/files/785177861b5d30b679edadde4c010c7cjpg_blxg.jpeg",
-    "skill image": "https://s6.uupload.ir/files/b0ce5770d446ad0fdc97a58f4d9a8e37png_imr.png",
-    "text": "بهترین خودت را میشناسد امامان شیعه است که در اوست و او پر از این حرفام راسته بازار یعنی در سال آخرشه دیگه هم داره کی",
-    "score": "4.7"
+    "name": "Agent Hop",
+    "image": "https://s6.uupload.ir/files/48d8609c7ee62bf531e8a8781d32c349jpg_m3cm.jpeg",
+    "skill image": "https://s6.uupload.ir/files/4eeceb3526ca6d5a84b42830d71567c1png_icxe.png",
+    "text": "هر بار که Safe Zone کوچک می شود، EP بدست می آورید",
+    "score": "4.3"
   },
   {
-    "name e": "jessy",
-    "name p": "جسی",
-    "image": "https://s6.uupload.ir/files/joseph_7uyb.jpg",
-    "skill image": "https://s6.uupload.ir/files/b0ce5770d446ad0fdc97a58f4d9a8e37png_imr.png",
-    "text": "سلام بر شما و خانواده اش به خدا و با یک گرافیک بود به پله ها بالا",
+    "name": "Sensei Tig",
+    "image": "https://s6.uupload.ir/files/a4b4b677db357c4da4eecb90c17f2845jpg_6wc6.jpeg",
+    "skill image": "https://s6.uupload.ir/files/026a1e48b2e34892b1283a4ba558fe8fpng_dd75.png",
+    "text": "مدت زمان مهارت نشانه گذاری دشمنان را کاهش می دهد.",
+    "score": "4.6"
+  },
+  {
+    "name": "Moony",
+    "image": "https://s6.uupload.ir/files/5a37c3bdeaba5d305d4e5c9b0a9935b5jpg_wf7r.jpeg",
+    "skill image": "https://s6.uupload.ir/files/c7d5e19cf0bf618d1d2d3890ac2f8facpng_r7mw.png",
+    "text": "محافظت در هنگام شمارش معکوس تعامل",
+    "score": "4.5"
+  },
+  {
+    "name": "Dreki",
+    "image": "https://s6.uupload.ir/files/a919233d8a7e838ad18acf8ca3665863jpg_jewe.jpeg",
+    "skill image": "https://s6.uupload.ir/files/317d3b855b52a77479c2ce2f59ebe9b0png_mral.png",
+    "text": "مخالفانی که پشت یک دیوار بهبود می یابند، افشا می شوند.",
     "score": "4.1"
   },
   {
-    "name e": "Emmi",
-    "name p": "امی",
-    "image": "https://s6.uupload.ir/files/joseph_7uyb.jpg",
-    "skill image": "",
-    "text": "سعی می کنم که در روستای کلاته که در اوست که به جا اون هم نتونست حتی اگر اینگونه باشد که به جا اون هم با یک اسم جدید سیو کامل ازش بده که تو این کار باید بکنم پولش رسیده که",
+    "name": "Beaston",
+    "image": "https://s6.uupload.ir/files/b6a897ed6de1e9ab0b12d5fbb89d23fejpg_ll32.jpeg",
+    "skill image": "https://s6.uupload.ir/files/e540f530bc127102efefae27a3654ffdpng_tx13.png",
+    "text": "با Beaston در کنار شما، قدرت بیشتری در پرتاب های خود به دست می آورید!",
+    "score": "4.9"
+  },
+  {
+    "name": "Rockie",
+    "image": "https://s6.uupload.ir/files/d95b21e460ec265ee95c9904eddaea8fjpg_rn65.jpeg",
+    "skill image": "https://s6.uupload.ir/files/9cf0e2dbca8a1b82a87e40ef6f6ce48epng_hni2.png",
+    "text": "زمان خنک شدن مهارت های فعال را برای صاحب آن کاهش دهید.",
+    "score": "4.8"
+  },
+  {
+    "name": "Mr.Waggor",
+    "image": "https://s6.uupload.ir/files/800b4b35da3fe291c6ab4e433121c4d9jpg_98d.jpeg",
+    "skill image": "https://s6.uupload.ir/files/832f64a38907d4ef9399dc4aeca91f7apng_nssz.png",
+    "text": "نارنجک Gloo Wall را زمانی تولید می کند که به نظر می رسد مالک به آن نیاز دارد.",
+    "score": "4.9"
+  },
+  {
+    "name": "Ottero",
+    "image": "https://s6.uupload.ir/files/9c8673d0b721a785350d4b0da7528563jpg_p0qk.jpeg",
+    "skill image": "https://s6.uupload.ir/files/9cf0e2dbca8a1b82a87e40ef6f6ce48epng_hni2.png",
+    "text": "هنگام استفاده از Treatment Pistol یا Med Kit، گیرنده مقداری EP را نیز بازیابی می کند",
+    "score": "4.7"
+  },
+  {
+    "name": "Robo",
+    "image": "https://s6.uupload.ir/files/2fb8a82f1ee9d6efcd0abfbb956cb582jpg_r66d.jpeg",
+    "skill image": "https://s6.uupload.ir/files/86f87cd06dc73326d8ae7bcc0ffb8aefpng_zjw9.png",
+    "text": "یک سپر به دیوار تاریک اضافه می کند",
+    "score": "4.3"
+  },
+  {
+    "name": "Spirit Fox",
+    "image": "https://s6.uupload.ir/files/5bdc1f7210b101d42e1da8cfc831fe3ejpg_tfue.jpeg",
+    "skill image": "https://s6.uupload.ir/files/760c54852d7c5ebf645d9d2690ba6b3bpng_6s4p.png",
+    "text": "هنگام استفاده از Med Kit، HP اضافی را بازیابی کنید",
+    "score": "3.8"
+  },
+  {
+    "name": "Shiba",
+    "image": "https://s6.uupload.ir/files/df48b4b15f69d0220174d912fb23c750jpg_zqlf.jpeg",
+    "skill image": "https://s6.uupload.ir/files/b110aa07225b92d414949bd01eb09bc2png_e7u8.png",
+    "text": "شیبا قارچ های اطراف را پیدا کرده و روی نقشه کوچک علامت گذاری می کند.",
     "score": "5"
+  },
+  {
+    "name": "Detective Panda",
+    "image": "https://s6.uupload.ir/files/26bccc7f2fb162742b614b1de4df1d23jpg_6id.jpeg",
+    "skill image": "https://s6.uupload.ir/files/e39b8f5219ab69a4ddf7dcb5754c3908png_dvsa.png",
+    "text": "پاندا همه نوع شگفتی دارد!",
+    "score": "5"
+  },
+  {
+    "name": "Night Panther",
+    "image": "https://s6.uupload.ir/files/f08bd674391e319b66c37974bf123b6fjpg_w9.jpeg",
+    "skill image": "https://s6.uupload.ir/files/304eff6683d1536968d4d6ba026f7c04png_hom4.png",
+    "text": "هر بار که پلنگ یک تمرین با وزنه انجام می دهد، مالک می تواند فضای موجودی بیشتری در بازی داشته باشد.",
+    "score": "4.9"
+  },
+  {
+    "name": "Zasil",
+    "image": "https://s6.uupload.ir/files/77f1b9e0956503532e5496fee808e8d6jpg_aab9.jpeg",
+    "skill image": "",
+    "text": "هر بار که صاحب یک کیت استنشاقی/مد کیت/کیت تعمیری مصرف می‌کند، امکان دریافت یک کیت اضافی وجود دارد.",
+    "score": "5"
+  },
+  {
+    "name": "Finn",
+    "image": "https://s6.uupload.ir/files/785177861b5d30b679edadde4c010c7cjpg_(1)_bt2d.jpeg",
+    "skill image": "https://s6.uupload.ir/files/5cce1f35b71401c26658d23abc680006png_rpqo.png",
+    "text": "هنگامی که یک بازیکن نزدیک زمین خورده یا حذف می شود، مالک و هم تیمی ها یک افزایش سرعت حرکت دریافت می کنند",
+    "score": "5"
+  },
+  {
+    "name": "",
+    "image": "https://s6.uupload.ir/files/267e3aed8dcfef355fed9babd4203610jpg_b4j6.jpeg",
+    "skill image": "",
+    "text": "",
+    "score": "4"
   }
 ]
