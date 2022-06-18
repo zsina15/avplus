@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Cargo pickup",
+    "text": "وسیله نقلیه با قدرت بالا، زره متوسط ​​و حداکثر سرعت. میتواند حداکثر 2 بازیکن را حمل کند.",
+    "speed": "55",
+    "ghs": "2100",
+    "angle": "12",
+    "score": "3.5",
+    "image": "https://s6.uupload.ir/files/icon_slot_suv_reqt_m5cn.png",
+    "passenger": "2",
+    "hp": "400",
+    "tag1": "کوهنورد",
+    "tag2": "له کننده"
+  },
+  {
+    "name": "Jeep",
+    "text": "یک وسیله نقلیه با جان و سرعت متوسط است و میتواند حداکثر تا چهار بازیکن را حمل کند.",
+    "speed": "40",
+    "ghs": "2900",
+    "angle": "12",
+    "score": "4.6",
+    "image": "https://s6.uupload.ir/files/picsart_07-14-05.17.52_yg9f_nme5.png",
+    "passenger": "4",
+    "hp": "500",
+    "tag1": "جان سخت",
+    "tag2": "جنگنده"
+  },
+  {
+    "name": "Tuk Tuk",
+    "text": "وسیله نقلیه ای با جان کم و سرعت کند و می تواند حداکثر 3 بازیکن را حمل کند.",
+    "speed": "35",
+    "ghs": "1200",
+    "angle": "15",
+    "score": "3.9",
+    "image": "https://s6.uupload.ir/files/icon_slot_tutu_tzl4_03qq.png",
+    "passenger": "3",
+    "hp": "300",
+    "tag1": "فانتزی",
+    "tag2": "سه نفره"
+  },
+  {
+    "name": "Amficar",
+    "text": "وسیله نقلیه ای با جان کم که می تواند در آب و زمین حرکت کند و می تواند حداکثر 2 بازیکن را حمل کند.",
+    "speed": "40",
+    "ghs": "1400",
+    "angle": "15",
+    "score": "4.3",
+    "image": "https://s6.uupload.ir/files/icon_slot_amphibian_fyhz_zoak.png",
+    "passenger": "2",
+    "hp": "300",
+    "tag1": "دریانورد",
+    "tag2": "دونفره"
+  },
+  {
+    "name": "Monster Truck",
+    "text": "کامیونی که به عنوان یک قطب هوا ظاهر می شود. تحمل ضربه آن بالا است و می تواند از طریق مناطق سخت عبور کند. می تواند تا چهار بازیکن را حمل کند.",
+    "speed": "45",
+    "ghs": "8000",
+    "angle": "15",
+    "score": "3.9",
+    "image": "https://s6.uupload.ir/files/icon_slot_monstertruck_hmvc_l73x.png",
+    "passenger": "4",
+    "hp": "800",
+    "tag1": "چهار نفره ",
+    "tag2": "غول پیکر"
+  },
+  {
+    "name": "Motobike",
+    "text": "وسیله نقلیه تک نفره است. موتور دارای تحمل ضربه کم است اما می تواند به سرعت از مناطق باریک عبور کند.",
+    "speed": "60",
+    "ghs": "1500",
+    "angle": "40",
+    "score": "3.8",
+    "image": "https://s6.uupload.ir/files/icon_slot_motobike_g69s_zbyy.png",
+    "passenger": "1",
+    "hp": "300",
+    "tag1": "سریع",
+    "tag2": "جمع و جور"
+  },
+  {
+    "name": "Sports car",
+    "text": "ماشین اسپرت شیک. تحمل ضربه کم اما مجنون حداکثر سرعت و می تواند حداکثر دو بازیکن را حمل کند.",
+    "speed": "80",
+    "ghs": "4600",
+    "angle": "20",
+    "score": "4.5",
+    "image": "https://s6.uupload.ir/files/icon_slot_roadster_n1a0_rsd.png",
+    "passenger": "2",
+    "hp": "400",
+    "tag1": "زیبا",
+    "tag2": "سریع السیر"
+  }
+]
