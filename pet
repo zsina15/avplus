@@ -37,7 +37,7 @@
   {
     "name": "Rockie",
     "image": "https://s6.uupload.ir/files/d95b21e460ec265ee95c9904eddaea8fjpg_rn65.jpeg",
-    "skill image": "https://s6.uupload.ir/files/9cf0e2dbca8a1b82a87e40ef6f6ce48epng_hni2.png",
+    "skill image": "https://s6.uupload.ir/files/d0dd9e1badb60fa38fdc5a3cbbc5e6b8png_k1fb.png",
     "text": "زمان خنک شدن مهارت های فعال را برای صاحب آن کاهش دهید.",
     "score": "4.8"
   },
@@ -79,21 +79,21 @@
   {
     "name": "Detective Panda",
     "image": "https://s6.uupload.ir/files/26bccc7f2fb162742b614b1de4df1d23jpg_6id.jpeg",
-    "skill image": "https://s6.uupload.ir/files/e39b8f5219ab69a4ddf7dcb5754c3908png_dvsa.png",
+    "skill image": "https://s6.uupload.ir/files/151db82ab42080b2be9af506eb10d996png_yx4c.png",
     "text": "پاندا همه نوع شگفتی دارد!",
     "score": "5"
   },
   {
     "name": "Night Panther",
     "image": "https://s6.uupload.ir/files/f08bd674391e319b66c37974bf123b6fjpg_w9.jpeg",
-    "skill image": "https://s6.uupload.ir/files/304eff6683d1536968d4d6ba026f7c04png_hom4.png",
+    "skill image": "https://s6.uupload.ir/files/e39b8f5219ab69a4ddf7dcb5754c3908png_p5r7.png",
     "text": "هر بار که پلنگ یک تمرین با وزنه انجام می دهد، مالک می تواند فضای موجودی بیشتری در بازی داشته باشد.",
     "score": "4.9"
   },
   {
     "name": "Zasil",
     "image": "https://s6.uupload.ir/files/77f1b9e0956503532e5496fee808e8d6jpg_aab9.jpeg",
-    "skill image": "",
+    "skill image": "https://s6.uupload.ir/files/304eff6683d1536968d4d6ba026f7c04png_50kz.png",
     "text": "هر بار که صاحب یک کیت استنشاقی/مد کیت/کیت تعمیری مصرف می‌کند، امکان دریافت یک کیت اضافی وجود دارد.",
     "score": "5"
   },
@@ -105,10 +105,10 @@
     "score": "5"
   },
   {
-    "name": "",
+    "name": "https://s6.uupload.ir/files/304eff6683d1536968d4d6ba026f7c04png_50kz.png",
     "image": "https://s6.uupload.ir/files/267e3aed8dcfef355fed9babd4203610jpg_b4j6.jpeg",
-    "skill image": "",
-    "text": "",
-    "score": "4"
+    "skill image": "https://s6.uupload.ir/files/131c855571c2c05a07acb1b5299f0550png_mrfo.png",
+    "text": "زمانی که می‌نشینید و حرکت می‌کنید . سرعت حرکت شما افزایش می‌یابد",
+    "score": "5"
   }
 ]
